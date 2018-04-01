@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewpag" type="id">vp</item>
+    <item name="tablay" type="id">tablay</item>
+    <item name="applay" type="id">applay</item>
+    <item name="toolb" type="id">toolb</item>
+</resources>
